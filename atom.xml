@@ -4,9 +4,9 @@
   <subtitle>HTML CSS JavaScript Node.js PHP Java</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-02-09T07:28:25.763Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://hej.science/"/>
+  <updated>2017-02-09T07:47:35.389Z</updated>
+  <id>https://hej.science/</id>
   
   <author>
     <name>HyperImage</name>
@@ -17,13 +17,13 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/02/09/hello-world/"/>
-    <id>http://yoursite.com/2017/02/09/hello-world/</id>
+    <link href="https://hej.science/2017/02/09/hello-world.html"/>
+    <id>https://hej.science/2017/02/09/hello-world.html</id>
     <published>2017-02-09T01:04:32.792Z</published>
-    <updated>2017-02-09T07:28:25.763Z</updated>
+    <updated>2017-02-09T07:47:35.389Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>HyperImage的个人博客. <a href="http://www.baidu.com" target="_blank" rel="external">http://www.baidu.com</a></p>
-<footer><strong>@HyperImage</strong><cite><a href="https://https://hyperimagination.github.io/" target="_blank" rel="external">https://hyperimagination.github.io</a></cite></footer></blockquote>
+<footer><strong>@HyperImage</strong><cite><a href="https://https://hyperimagination.github.io/" target="_blank" rel="external">https://hyperimagination.github.io</a></cite></footer></blockquote>  
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">alert(&apos;Hello World!&apos;);</div></pre></td></tr></table></figure>
 
 <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -45,11 +45,11 @@
     </summary>
     
     
-      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+      <category term="HTML" scheme="https://hej.science/tags/HTML/"/>
     
-      <category term="CSS" scheme="http://yoursite.com/tags/CSS/"/>
+      <category term="CSS" scheme="https://hej.science/tags/CSS/"/>
     
-      <category term="JavaScript" scheme="http://yoursite.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://hej.science/tags/JavaScript/"/>
     
   </entry>
   
