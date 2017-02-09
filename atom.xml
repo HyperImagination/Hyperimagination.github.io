@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hej.science/"/>
-  <updated>2017-02-09T07:47:35.389Z</updated>
+  <updated>2017-02-09T09:35:27.251Z</updated>
   <id>https://hej.science/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hej.science/2017/02/09/hello-world.html"/>
-    <id>https://hej.science/2017/02/09/hello-world.html</id>
+    <link href="https://hej.science/2017/02/09/index.html"/>
+    <id>https://hej.science/2017/02/09/index.html</id>
     <published>2017-02-09T01:04:32.792Z</published>
-    <updated>2017-02-09T07:47:35.389Z</updated>
+    <updated>2017-02-09T09:35:27.251Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>HyperImage的个人博客. <a href="http://www.baidu.com" target="_blank" rel="external">http://www.baidu.com</a></p>
 <footer><strong>@HyperImage</strong><cite><a href="https://https://hyperimagination.github.io/" target="_blank" rel="external">https://hyperimagination.github.io</a></cite></footer></blockquote>  
